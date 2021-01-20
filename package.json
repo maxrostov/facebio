@@ -1,0 +1,7 @@
+{
+  "name": "facebio",
+ "scripts": {
+   "browsersync": "browser-sync 'http://facebio.test' 'views' 'web' 'controllers' 'models'  -w"
+  }
+
+}

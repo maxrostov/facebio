@@ -1,0 +1,23 @@
+#my_profile_table{
+    font-size: 110%;
+}
+
+#my_profile_table td:first-child{
+    /*font-family: serif;*/
+    /*font-size: 110%;*/
+    /*font-variant: small-caps;*/
+    background-color: #f4f2e9;
+
+}
+#my_profile_table td{
+    border-bottom: 1px solid black;
+}
+.my_header_footer{
+    color:white;
+}
+
+@media print {
+    .print_hide{
+        display: none!important;
+    }
+}

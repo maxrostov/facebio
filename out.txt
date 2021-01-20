@@ -1,0 +1,56 @@
+<?xml version="1.0"?><Message>
+<TerminalType>F500</TerminalType>
+<TerminalID>1</TerminalID>
+<ProductName>ZX-F630 ENG</ProductName>
+<DeviceSerialNo>ZXMJ09506362</DeviceSerialNo>
+<DeviceUID>5d0f32cd-4e681010</DeviceUID>
+<Event>TimeLog_v2</Event>
+<TransID>7</TransID>
+<LogID>7</LogID>
+<Time>2019-7-28-T1:13:00Z</Time>
+<UserID>1</UserID>
+<Action>FACE</Action>
+<AttendStat>DutyOn</AttendStat>
+<APStat>None</APStat>
+<JobCode>0</JobCode>
+<Photo>No</Photo>
+</Message><?xml version="1.0"?><Message>
+<TerminalType>F500</TerminalType>
+<TerminalID>1</TerminalID>
+<ProductName>ZX-F630 ENG</ProductName>
+<DeviceSerialNo>ZXMJ09506362</DeviceSerialNo>
+<DeviceUID>5d0f32cd-4e681010</DeviceUID>
+<Event>TimeLog_v2</Event>
+<TransID>8</TransID>
+<LogID>8</LogID>
+<Time>2019-7-28-T1:30:19Z</Time>
+<UserID>1</UserID>
+<Action>FACE</Action>
+<AttendStat>DutyOn</AttendStat>
+<APStat>None</APStat>
+<JobCode>0</JobCode>
+<Photo>No</Photo>
+</Message>
+==
+
+
+<?xml version="1.0"?><Message>
+<TerminalType>F500</TerminalType>
+<TerminalID>1</TerminalID>
+<ProductName>ZX-F630 ENG</ProductName>
+<DeviceSerialNo>ZXMJ09506362</DeviceSerialNo>
+<DeviceUID>5d0f32cd-4e681010</DeviceUID>
+<Event>TimeLog_v2</Event>
+<TransID>9</TransID>
+<LogID>9</LogID>
+<Time>2019-7-28-T17:08:27Z</Time>
+<UserID>1</UserID>
+<Action>FACE</Action>
+<AttendStat>DutyOff</AttendStat>
+<APStat>None</APStat>
+<JobCode>0</JobCode>
+<Photo>No</Photo>
+</Message>
+==
+
+
